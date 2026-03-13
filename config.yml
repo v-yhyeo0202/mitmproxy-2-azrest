@@ -1,3 +1,8 @@
 path:
   main: '/home/v-yyeo/mitmproxy-2-azrest'
+  code: 'mitmproxy-2-azrest'
   log: 'log'
+
+port:
+  mcpServerProxy: 8081
+  mcpServer: 8082
